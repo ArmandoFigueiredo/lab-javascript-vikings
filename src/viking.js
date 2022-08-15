@@ -19,11 +19,6 @@ class Soldier {
 }
 
 
-/*
-var objSoldado = new Soldier(100, 10);
-objSoldado.attack();
-*/
-
 // Viking
 class Viking extends Soldier{
 
@@ -53,8 +48,6 @@ class Viking extends Soldier{
 
         return "Odin Owns You All!"
     }
-
-
 
 }
 
